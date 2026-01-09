@@ -229,18 +229,11 @@ React runs at → **http://127.0.0.1:5173/**
 
 ## 🧑‍💻 Author
 
-**Sudheesh** 
+**Vishal** 
 
-🚀 Full Stack Developer | Machine Learning Enthusiast  
-📧 Contact: sudheeshv2106@gmail.com
-
-**Donate to have a cup of Coffee**
-
-Upi id: **sudheeshv2106@okhdfcbank**
-
-PayPal: **https://www.paypal.me/SudheeshV210**
-
----
+🚀 Full Stack Developer 
+📧 Contact:nkvishal21@gmail.com
+💻 Linkedin:https://www.linkedin.com/in/vishal-n-k-5a017b2b6
 
 ## 🪄 Quick Summary
 
@@ -262,3 +255,4 @@ PayPal: **https://www.paypal.me/SudheeshV210**
 | React not showing crop | Ensure `/get_last_crop` Flask endpoint returns correct value |
 
 ---
+
